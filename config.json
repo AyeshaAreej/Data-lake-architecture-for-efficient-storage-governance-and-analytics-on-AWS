@@ -1,0 +1,6 @@
+{
+    "database": "weather_data_lake_db",
+    "output_location": "s3://athena-output-a3/",
+    "workgroup": "primary"
+  }
+      
