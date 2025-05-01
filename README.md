@@ -38,7 +38,7 @@ This project demonstrates the design and implementation of a cloud-native data l
 - Visualized key insights using AWS QuickSight dashboards.
 
 ### 5. Python-Based Athena Interface
--This Python script automates the execution of multiple SQL queries on Amazon Athena using the boto3 SDK. It:
+- This Python script automates the execution of multiple SQL queries on Amazon Athena using the boto3 SDK. It:
 - Retrieves data from an S3-based dataset.
 - Handles query execution and status polling.
 - Prints results to the console or saves them.
